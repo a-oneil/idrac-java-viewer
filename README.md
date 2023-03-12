@@ -1,7 +1,4 @@
 # iDrac Java Viewer
-Simple Java Viewer for iDrac 6 remote console.
-
-## Description
 Simple self contained iDrac 6 remote console viewer.
 
 ## Instructions

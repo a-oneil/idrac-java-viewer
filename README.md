@@ -1,8 +1,13 @@
+# iDrac Java Viewer
 Simple Java Viewer for iDrac 6 remote console.
 
-Instructions:
-1. Run the bat file
-2. Enter IP address of the iDrac
-3. Enter the user / password of the iDrac admin
+## Description
+Simple self contained iDrac 6 remote console viewer.
 
-The script will restart if the connection failed.
+## Instructions
+1. Clone the repo to a local directory
+2. Run `idrac.bat`
+3. Enter IP address of the iDrac interface
+4. Enter the user / password of the iDrac admin
+
+The script will restart if the connection failed or if you get disconnected.
